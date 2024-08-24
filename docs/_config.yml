@@ -1,1 +1,11 @@
+title: Latex Tutorial
+description: A tutorial on how to use Latex.
 theme: just-the-docs
+
+url: https://byrzhm.github.io/latex-tutorial/
+
+aux_links: # remove if you don't want this link to appear on your pages
+  github repo: https://github.com/byrzhm/latex-tutorial
+
+plugins:
+  - jekyll-default-layout

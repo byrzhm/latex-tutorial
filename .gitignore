@@ -306,3 +306,5 @@ TSWLatexianTemp*
 #*Notes.bib
 
 *.pdf
+
+tmp/
